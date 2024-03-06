@@ -4,7 +4,7 @@
 <h2 align="center">Capstone-Autonomous Recycling Robotic Arm</h2>
 
   <p align="center">
-    Using OpenCV and Tensorflow and Python my Capstone team and I created a robotic arm capable of autonommously identifiying the class of an object (paper, plastic, metal) and then decide the motor movements necessary to pick up the item and put it in the correct recycling bin, in conjunction with a front end - back end connection to display and store the data collected.
+    Using OpenCV and Tensorflow and Python my Capstone team and I created a robotic arm capable of autonommously identifiying the class of an object (paper, plastic, metal) and then decide the motor movements necessary to pick up the item and put it in the correct recycling bin, in conjunction with a front end - back end connection to display and store the data collected. <br>THIS PAGE IS A WORK IN PROGRESS
   </p>
 </div>
 
