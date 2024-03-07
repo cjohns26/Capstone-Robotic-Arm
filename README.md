@@ -40,7 +40,7 @@
 
 (READ THE FINAL PROPOSAL.PDF) This page will eventually show everything the PDF does but it is currently a work in progress.
 
-Using OpenCV and Tensorflow and Python my Capstone team and I created a robotic arm capable of autonommously identifiying the class of an object (paper, plastic, metal) and then decide the motor movements necessary to pick up the item and put it in the correct recycling bin, in conjunction with a front end - back end connection to display and store the data collected. <br>THIS PAGE IS A WORK IN PROGRESS
+Using OpenCV and Tensorflow and Python my Capstone team and I created a robotic arm capable of autonommously identifiying the class of an object (paper, plastic, metal) and then decide the motor movements necessary to pick up the item and put it in the correct recycling bin, in conjunction with a front end - back end connection to display and store the data collected. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
