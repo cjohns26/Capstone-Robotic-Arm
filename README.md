@@ -1,10 +1,10 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-<h2 align="center">Capstone-Autonomous Recycling Robotic Arm</h2>
+<h1 align="center">Capstone-Autonomous Recycling Robotic Arm</h1>
 
   <p align="center">
-    Using OpenCV and Tensorflow and Python my Capstone team and I created a robotic arm capable of autonommously identifiying the class of an object (paper, plastic, metal) and then decide the motor movements necessary to pick up the item and put it in the correct recycling bin, in conjunction with a front end - back end connection to display and store the data collected. <br>THIS PAGE IS A WORK IN PROGRESS
+
   </p>
 </div>
 
@@ -38,7 +38,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: 
+(READ THE FINAL PROPOSAL.PDF) This page will eventually show everything the PDF does but it is currently a work in progress.
+
+Using OpenCV and Tensorflow and Python my Capstone team and I created a robotic arm capable of autonommously identifiying the class of an object (paper, plastic, metal) and then decide the motor movements necessary to pick up the item and put it in the correct recycling bin, in conjunction with a front end - back end connection to display and store the data collected. 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
