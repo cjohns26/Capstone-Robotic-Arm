@@ -67,14 +67,12 @@ Using OpenCV and Tensorflow and Python my Capstone team and I created a robotic 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-TBA
+This projects contains many dependencies, please use the requirements.txt inside main to install them.
 
 ### Prerequisites
-
-TBA
-* example
+* requirements.txt
   ```sh
-  npm install npm@latest -g
+  pip install requirements.txt
   ```
 
 ### Installation
