@@ -112,7 +112,7 @@ TBA
 
 <h3>FRONT-END / BACKEND ARCH</h3>
 
-![web_arc](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/f43d7c50-3478-405b-aa41-6b5833856f71)
+![web_arc](https://github.com/cjohns26/Capstone-Robotic-Arm/blob/main/Example%20Pics/web_arc.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
