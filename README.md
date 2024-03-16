@@ -78,41 +78,32 @@ This projects contains many dependencies, please use the requirements.txt inside
 ### Installation
 TBA
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
-<h3>MASTER PROG ARCH</h3>
-  
-![master_prog](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/3bcf50eb-1b8e-4423-9332-55d30f581487)
+<p align="center">
+  <h3>MASTER PROG ARCH</h3>
+  <img width="auto" height="auto" src="https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/3bcf50eb-1b8e-4423-9332-55d30f581487">
+</p>
 
 <h3>TRAINING DATA</h3>
-<h4>Full Image</h4>
 
-![captured_ball_1](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/0130777c-2944-4bb3-ab6f-8ce5bd465533)
-<br>
-<h4>Cropped Image</h4>
+ Full Image                | Cropped Image
+:-------------------------:|:-------------------------:
+![captured_ball_1](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/0130777c-2944-4bb3-ab6f-8ce5bd465533)  |  ![cropped_ball_1](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/7a99990a-d25a-40c9-812e-dcbb8684b26c)
 
-![cropped_ball_1](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/7a99990a-d25a-40c9-812e-dcbb8684b26c)
-<br>
-<h4>Bounding Boxes/Predictions</h4>
-
-![predictions](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/26c58b26-41c8-43ec-8158-874c79b7d426)
-<br>
+<p align="center">
+  <h3>Bounding Boxes/Predictions</h3>
+  <img width="auto" height="auto" src="https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/26c58b26-41c8-43ec-8158-874c79b7d426">
+</p>
 
 <h3>EXTRACTED DATA</h3>
-<h4>Raw Data</h4>
 
-![data_before](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/9ef77330-92d0-433d-a6db-87990d2e5bb5)
-<br>
-<h4>Cleaned Data</h4>
-
-![data_after](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/b9501f4f-0813-45b1-82ed-4f74eaf87a0c)
+ Raw Data                  | Cleaned Data
+:-------------------------:|:-------------------------:
+![data_before](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/9ef77330-92d0-433d-a6db-87990d2e5bb5)  |  ![data_after](https://github.com/cjohns26/Capstone-Robotic-Arm/assets/49729162/b9501f4f-0813-45b1-82ed-4f74eaf87a0c)
 
 <h3>MODEL</h3>
 
