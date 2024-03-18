@@ -1,7 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-<h1 align="center">Capstone-Autonomous Recycling Robotic Arm</h1>
+<h1 align="center">Capstone-Autonomous Recycling Robotic Arm (WASTE)</h1>
 
   <p align="center">
 
