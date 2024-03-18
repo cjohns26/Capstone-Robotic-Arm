@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-(READ THE FINAL PROPOSAL.PDF) This page will eventually show everything the PDF does but it is currently a work in progress.
+(READ THE [FINAL-PROPOSAL.PDF](https://github.com/cjohns26/Capstone-Robotic-Arm/blob/main/Final-Proposal.pdf)) This page will eventually show everything the PDF does but it is currently a work in progress.
 
 Using OpenCV and Tensorflow and Python my Capstone team and I created a robotic arm capable of autonommously identifiying the class of an object (paper, plastic, metal) and then decide the motor movements necessary to pick up the item and put it in the correct recycling bin, in conjunction with a front end - back end connection to display and store the data collected. 
 
